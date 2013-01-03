@@ -31,7 +31,7 @@ int main(int argc,char *argv[]) {
     int p,r,l=0,i,t,s,x;
     char b,c,pct,lpct;
     FILE *infile=NULL,*outfile=NULL;
-    fprintf(stderr, "**** %s ****\n", banner);
+    fprintf(stderr, "%s\n", banner);
     if(argc!=4){
         fprintf(stderr,"use: %s <infile> <outfile> <key>\n",argv[0]);
         return -1;
