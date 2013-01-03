@@ -8,7 +8,7 @@ This is test file.
 file_encryption <infile> <outfile> <key>
 # ./file_encryption infile.txt outfile.txt 667tt
 
-Project by Chandan Kumar
+**** Project by Chandan Kumar ****
 Encrypting 18 bytes.. (256 bit cypher)
 [X]
 Done. Wrote 18 bytes in file "outfile.txt".
